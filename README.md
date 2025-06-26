@@ -25,5 +25,3 @@ Achieved over **97% accuracy** on test data using the KNN model.
 - Run each cell in sequence
 - See outputs and plots inline
 
-## 📁 Submission Instructions
-- This repo includes: `.ipynb` notebook + `README.md`
